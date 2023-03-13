@@ -20,7 +20,7 @@ El tercer archivo es video.html, que consta del link directo al primer tema que 
 
 ![image](https://user-images.githubusercontent.com/114931679/224789224-c9998af6-01e6-4795-b516-2bc14d7e2cf0.png)
 
-Y el último archivo es el maps.html. Es un formulario para poder contactar con él, en caso de estar interesado.
+Y el último archivo es el maps.html. Es un formulario para poder registrarse en la página y así ser notificado de los nuevos eventos.
 
 ![image](https://user-images.githubusercontent.com/114931679/224789280-3bfad11d-66b6-491e-820e-35b44ff03e45.png)
 
